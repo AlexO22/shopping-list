@@ -1,0 +1,5 @@
+static/index.js
+static/index.js.LICENSE.txt
+src-jsx/node_modules
+.idea/
+venv/
