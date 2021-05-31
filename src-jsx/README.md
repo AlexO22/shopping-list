@@ -5,7 +5,7 @@ This folder contains all the un-processed JavaScript files that will make up the
 This is powered by React translated through Webpack and Babel.
 
 ## Usage
-cd E:\Code\flask
+cd E:\Code\shopping-list
 .\venv\Scripts\activate.bat
 
 Switch directory to E:\Code\flask\src-jsx
